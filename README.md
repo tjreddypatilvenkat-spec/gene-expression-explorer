@@ -33,8 +33,7 @@ for exploring, visualizing and analyzing gene expression datasets.
 
 ## Application
 
-Live Website:
-https://gene-expression-explorer-elyroyxdohsvuockyuve2se.streamlit.app
+Live Website:https://gene-expression-explorer-elyroyxdohsvuokyuve2se.streamlit.app/
 
 ## Important Note
 
